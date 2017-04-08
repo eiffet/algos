@@ -1,4 +1,3 @@
-#!/usr/local/inferno/python
 
 import sys, os
 from datetime import datetime
